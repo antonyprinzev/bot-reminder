@@ -1,0 +1,1 @@
+VK bot-reminder made for my own goals; at least, making life easier and more comfortable.
